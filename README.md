@@ -1,6 +1,6 @@
 # S.A.D
 
-! Extra dependencies. Add jdatepicker-1.3.4.jar as additional Eclipse build path.   
+:warning: **Extra gui dependencies**: Add SafeCar/jdatepicker-1.3.4.jar as additional Eclipse build path.
 
 Tο gui είναι πλήρως λειτουργικό και μπορεί να δρα ακριβώς όπως περιγράφεται στις **"Αφηγήσεις και Mockup Οθόνες"** της εργασίας 
 
