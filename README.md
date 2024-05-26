@@ -18,7 +18,7 @@ Tο gui είναι πλήρως λειτουργικό και μπορεί να 
 - Διαγραφή χρήστη
 
 ## Αρχικές τιμές
-![α](https://github.com/Kunutza/S.A.D/blob/main/assets/init_values.png)
+![](https://github.com/Kunutza/S.A.D/blob/main/assets/init_values.png)
 
 ## Παράδειγμα οθόνης με διακαιώματα ιδιοκτήτη
 ![](https://github.com/Kunutza/S.A.D/blob/main/assets/owner.gif)
