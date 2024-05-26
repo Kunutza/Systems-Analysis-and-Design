@@ -18,9 +18,13 @@ Tο gui είναι πλήρως λειτουργικό και μπορεί να 
 - Διαγραφή χρήστη
 
 ## Αρχικές τιμές
+![α](https://github.com/Kunutza/S.A.D/blob/main/assets/init_values.png)
 
 ## Παράδειγμα οθόνης με διακαιώματα ιδιοκτήτη
+![](https://github.com/Kunutza/S.A.D/blob/main/assets/owner.gif)
 
-## Παράδειγμα οθόνης με διακαιώματα συνεργαζόμενοy εμπειρογνώμονα
+## Παράδειγμα οθόνης με διακαιώματα συνεργαζόμενου εμπειρογνώμονα
+![](https://github.com/Kunutza/S.A.D/blob/main/assets/colab_expert.gif)
 
 ## Παράδειγμα οθόνης με δικαιώματα ασφαλιστικού πράκτορα 
+![](https://github.com/Kunutza/S.A.D/blob/main/assets/insurance_agent.gif)
