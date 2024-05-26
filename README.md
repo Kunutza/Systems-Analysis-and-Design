@@ -1,7 +1,8 @@
 # S.A.D
-
+## Dependencies
 :warning: **Extra gui dependencies**: Add SafeCar/jdatepicker-1.3.4.jar as additional Eclipse build path.
 
+## Description
 Tο gui είναι πλήρως λειτουργικό και μπορεί να δρα ακριβώς όπως περιγράφεται στις **"Αφηγήσεις και Mockup Οθόνες"** της εργασίας 
 
 Λειτουργεί με δικαιώματα χρηστών που επιτρέπουν ή απαγορεύουν την χρήση των χαρακτηριστικών της εφαρμογής και περιέχει:
@@ -19,14 +20,14 @@ Tο gui είναι πλήρως λειτουργικό και μπορεί να 
 - Επεξεργασία χρήστη
 - Διαγραφή χρήστη
 
-## Αρχικές τιμές
+### Αρχικές τιμές
 ![](https://github.com/Kunutza/S.A.D/blob/main/assets/init_values.png)
 
-## Παράδειγμα οθόνης με διακαιώματα ιδιοκτήτη
+### Παράδειγμα οθόνης με διακαιώματα ιδιοκτήτη
 ![](https://github.com/Kunutza/S.A.D/blob/main/assets/owner.gif)
 
-## Παράδειγμα οθόνης με διακαιώματα συνεργαζόμενου εμπειρογνώμονα
+### Παράδειγμα οθόνης με διακαιώματα συνεργαζόμενου εμπειρογνώμονα
 ![](https://github.com/Kunutza/S.A.D/blob/main/assets/colab_expert.gif)
 
-## Παράδειγμα οθόνης με δικαιώματα ασφαλιστικού πράκτορα 
+### Παράδειγμα οθόνης με δικαιώματα ασφαλιστικού πράκτορα 
 ![](https://github.com/Kunutza/S.A.D/blob/main/assets/insurance_agent.gif)
