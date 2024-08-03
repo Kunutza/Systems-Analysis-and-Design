@@ -1,4 +1,4 @@
-# S.A.D
+# (Systems Analysis and Design) S.A.D.
 ## Dependencies
 :warning: **Extra gui dependencies**: Add SafeCar/jdatepicker-1.3.4.jar as additional Eclipse build path.
 
